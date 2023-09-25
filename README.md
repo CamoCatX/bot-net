@@ -1,6 +1,3 @@
-# bot-net
-This botnet, which is useful, but not the most advanced
-
 How to install? 
 Clone this repo, cd to the directory and run the script. I hope you find this useful.
 
